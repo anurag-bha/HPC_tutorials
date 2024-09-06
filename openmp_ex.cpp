@@ -1,0 +1,2 @@
+
+// This code teaches OpenMP 
